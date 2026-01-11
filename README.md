@@ -1,2 +1,2 @@
 # MadLibsGame
-This is my first project on user input
+# This is my first java project that focuses on user input.
